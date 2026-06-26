@@ -3,7 +3,7 @@
 <p align="center">
   <img width="512" height="144" alt="Silicon logo" src="docs/logo_name.png">
 </p>
-
+<!--x -->
 Silicon is a state-of-the-art, automated verifier based on symbolic execution,
 and the default verifier of the
 [Viper verification infrastructure](http://www.pm.inf.ethz.ch/research/viper.html).
